@@ -1,0 +1,3 @@
+[submodule "BullCow"]
+	path = BullCow
+	url = git@github.com:ws93/BullCow.git
