@@ -1,3 +1,6 @@
 [submodule "BullCow"]
 	path = BullCow
 	url = git@github.com:ws93/BullCow.git
+[submodule "TripleX"]
+	path = TripleX
+	url = git@github.com:ws93/TripleX.git
