@@ -4,3 +4,6 @@
 [submodule "TripleX"]
 	path = TripleX
 	url = git@github.com:ws93/TripleX.git
+[submodule "BuildingEscape"]
+	path = BuildingEscape
+	url = git@github.com:ws93/BuildingEscape.git
